@@ -2,8 +2,9 @@
 layout: page
 title: project 6
 description: a project with no image
+nav: false
 img:
-importance: 4
+importance: 6
 category: fun
 ---
 

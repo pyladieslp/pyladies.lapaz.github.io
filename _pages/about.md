@@ -1,20 +1,19 @@
 ---
 layout: about
-title: about
+title: Inicio
 permalink: /
-subtitle: <a href='#'>Comunidad</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Comunidad</a>
 
 profile:
   align: left
   image: pyladiesPNG.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>La Paz</p>
-    <p>Bolivia</p>
+    <p> La Paz - Bolivia</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,4 +25,4 @@ Usamos como código de conducta el código de Pyladies internacional: [http://ww
 
 Está comunidad se extiende por medio de estos meetups, conferencias futuras, eventos sociales y proyectos interdisciplinarios que construiremos con todos ustedes.
 
-Para contactarte con nuestra comunidad, por favor escríbenos un correo a lp@pyladies.com
+Para contactarte con nuestra comunidad puedes escribirnos al correo a lp@pyladies.com
