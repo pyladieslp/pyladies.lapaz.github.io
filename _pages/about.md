@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Comunidad</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: pyladiesPNG.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>La Paz</p>
+    <p>Bolivia</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Pyladies es una comunidad con el objetivo de enseñar y fomentar la presencia de mujeres en la industria de la tecnología. La diversidad es clave y es por tal razón que buscamos convertir a todos nuestros participantes en personajes activos y líderes en la comunidad de Pyladies La Paz y poder conectarnos con las comunidades python del mundo.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Esta comunidad está abierta tanto a mujeres como a todo aquel que quiera aprender, aportar y conectar con mas personas que tengan interes en el lenguaje de programacion de Python. Todos son bienvenidos en este espacio, independientemente de su identidad, género, orientación sexual, discapacidad, apariencia física, nivel de experiencia, edad, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Usamos como código de conducta el código de Pyladies internacional: [http://www.pyladies.com/CodeOfConduct/](http://www.pyladies.com/CodeOfConduct/), donde buscamos dar tranquilidad y seguridad a todas las personas que nos visiten y darles por hecho que pueden contar con nosotros en cualquier caso que no cumpla o irrespete este código.
+
+Está comunidad se extiende por medio de estos meetups, conferencias futuras, eventos sociales y proyectos interdisciplinarios que construiremos con todos ustedes.
+
+Para contactarte con nuestra comunidad, por favor escríbenos un correo a lp@pyladies.com
