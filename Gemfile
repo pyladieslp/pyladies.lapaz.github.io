@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'classifier-reborn', '~> 2.3'
-    gem 'jekyll', '~> 4.3', '>= 4.3.2'
+    gem 'classifier-reborn'
+    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
