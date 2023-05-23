@@ -23,6 +23,5 @@ Fecha: ultima semana de Enero
 - Postular a un miembro activo de la comunidad.
 - Un miembro organizador puede ser postulado.
 
-
 ### Convocatoria a voluntarios
 Final de Febrero

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /codigo de conducta/
+permalink: /codigodeconducta/
 title: Código de conducta
 description: La comunidad se rige por el codigo de conducta de Pyladies.
 nav: true

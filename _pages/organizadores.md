@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Equipo Organizador
+title: Organizadores
 permalink: /organizadores/
 description: Descripción sobre el equipo organizador Pyladies La Paz.
 nav: true
@@ -9,7 +9,7 @@ display_categories: [community]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/organizadores.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
